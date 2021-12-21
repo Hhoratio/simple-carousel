@@ -45,4 +45,3 @@ minImgs.forEach( item => {
         myInter();
     })
 })
-
